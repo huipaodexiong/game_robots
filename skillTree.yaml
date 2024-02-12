@@ -1,0 +1,20 @@
+# skillTree.yaml
+FIELDS:
+- id
+- lv
+- type
+- autoType
+- career
+- name
+10100:
+- 1
+- 1
+- 1
+- 1000
+- 基本剑术
+10200:
+- 1
+- 2
+- 0
+- 1000
+- 攻杀剑术
